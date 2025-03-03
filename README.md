@@ -1,7 +1,6 @@
 /*  
  * || Project:          This initial implementation is part of the project: 
  * || "IoT Energy Meter with C/C++/FreeRTOS, Java/Spring, TypeScript/Angular and Dart/Flutter.";
- * ||
  * || About:            End-to-end implementation of a LoRaWAN network for monitoring electrical quantities;
  * || Version:          1.0;
  * || Backend Mote:     ATmega328P/ESP32/ESP8266/ESP8285/STM32;
